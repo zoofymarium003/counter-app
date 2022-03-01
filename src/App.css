@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  font-size:3rem;
+  }
+  button{
+  font-size:2rem;
+  border-radius: 2%;
+  border:black;
+  margin: 2%;
+  padding: 2%;
+  background-color:steelblue;
+  opacity:45%;
+  }
+  button:hover {
+  font-size:2.1rem;
+  opacity: 100%;
+  }
